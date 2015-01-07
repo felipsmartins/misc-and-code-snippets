@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- e-mail config-->
+<config>
+<!-- email subject -->
+<subject>
+    assunto sdo seu email vai aqui
+</subject>
+<message><![CDATA[
+here goes message mail... HTML is allowed also well
+]]></message>
+
+<!-- email address list -->
+<emaillist>
+email1@host.com
+email2@host.com
+</emaillist>
+</config>
