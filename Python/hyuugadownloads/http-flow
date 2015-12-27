@@ -1,0 +1,68 @@
+INDEX DO ANIME: http://www.hyuugadownloads.com.br/anime/319/dragon-ball-z
+=====================================================================================================
+
+GET /anime/319/dragon-ball-z HTTP/1.1
+Host: www.hyuugadownloads.com.br
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: __atuvc=4%7C39%2C2%7C40%2C2%7C41%2C1%7C42%2C2%7C43; __utma=241437979.576987168.1442691860.1445895518.1445895518.19; __utmz=241437979.1443149583.6.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __cfduid=d5e109bead8b9a8c21c371a46ed0dbf501444583592; _ga=GA1.3.576987168.1442691860; __utmc=241437979; __utmt=1; __utmb=241437979.1.10.1445895518
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Mon, 26 Oct 2015 23:10:09 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.45
+Vary: Accept-Encoding
+Cache-Control: max-age=0
+Expires: Mon, 26 Oct 2015 23:10:08 GMT
+X-Frame-Options: SAMEORIGIN
+x-ua-compatible: IE=edge
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: cloudflare-nginx
+CF-RAY: 23b9d53acf871d0c-EZE
+Content-Encoding: gzip
+
+
+
+AO APERTAR O BOTÃO DE PRÓIMA PÁGINA:
+========================================================================================================
+
+POST /anime/319/dragon-ball-z HTTP/1.1
+Host: www.hyuugadownloads.com.br
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+Accept: text/html, */*; q=0.01
+Accept-Language: pt-BR,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://www.hyuugadownloads.com.br/anime/319/dragon-ball-z
+Content-Length: 3
+Cookie: __atuvc=4%7C39%2C2%7C40%2C2%7C41%2C1%7C42%2C2%7C43; __utma=241437979.576987168.1442691860.1445894188.1445895518.18; __utmz=241437979.1443149583.6.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __cfduid=d5e109bead8b9a8c21c371a46ed0dbf501444583592; _ga=GA1.3.576987168.1442691860; __utmc=241437979
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+[POST DATA]
+p=3
+
+HTTP/1.1 200 OK
+Date: Mon, 26 Oct 2015 23:07:25 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.45
+Vary: Accept-Encoding
+Cache-Control: max-age=0
+Expires: Mon, 26 Oct 2015 23:07:24 GMT
+X-Frame-Options: SAMEORIGIN
+x-ua-compatible: IE=edge
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: cloudflare-nginx
+CF-RAY: 23b9d1370bb31cfa-EZE
+Content-Encoding: gzip
