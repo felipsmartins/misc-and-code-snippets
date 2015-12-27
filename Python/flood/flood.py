@@ -10,7 +10,7 @@ from datetime import datetime
 import utils
 import proxy
 
-LOG_FILE = "/tmp/invalid_proxies_log"
+LOG_FILE = "/tmp/invalid_proxies.log"
 TELNET_MAX_TIMEOUT = 6
 POST_URL = 'censored create post url...'
 PROXY_FILE = 'proxies' # path for proxy file
