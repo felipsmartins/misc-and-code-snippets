@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/form": "^3.0",
+        "doctrine/orm": "~2.5",
+        "symfony/class-loader": "^3.0",
+        "symfony/doctrine-bridge": "^3.0"
+    }
+}

@@ -1,0 +1,38 @@
+<?php
+
+namespace Application\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Product
+ * @ORM\Table(name="product")
+ * @ORM\Entity
+ */
+class Product
+{
+    /**
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @ORM\Column(type="decimal")
+     */
+    private $price;
+
+    /**
+     * @ORM\Column(type="string")
+     */
+    private $name;
+
+    /**
+     * @ORM\OneToOne(targetEntity="Category")
+     */
+    private $category;
+
+
+
+}
